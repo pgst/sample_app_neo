@@ -74,4 +74,6 @@ group :test do
   # 今回追加
   gem "minitest"
   gem "minitest-reporters"
+  gem "guard"
+  gem "guard-minitest"
 end
