@@ -61,10 +61,17 @@ group :development do
 
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
+
+  # 今回追加
+  gem "solargraph"
 end
 
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem "capybara"
   gem "selenium-webdriver"
+
+  # 今回追加
+  gem "minitest"
+  gem "minitest-reporters"
 end
