@@ -8,7 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"Shopify.ruby-lsp",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"alexcvzz.vscode-sqlite"
 			]
 		}
 	}
