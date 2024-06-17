@@ -83,6 +83,7 @@ GEM
       execjs (~> 2)
     backport (1.2.0)
     base64 (0.2.0)
+    bcrypt (3.1.20)
     benchmark (0.3.0)
     bigdecimal (3.1.8)
     bindex (0.8.1)
@@ -374,6 +375,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  bcrypt (~> 3.1.7)
   bootsnap
   bootstrap-sass
   capybara
@@ -395,7 +397,6 @@ DEPENDENCIES
   sqlite3 (~> 1.4)
   stimulus-rails
   turbo-rails
-  tzinfo-data
   web-console
 
 RUBY VERSION
