@@ -9,7 +9,9 @@
 			"extensions": [
 				"Shopify.ruby-lsp",
 				"mhutchie.git-graph",
-				"alexcvzz.vscode-sqlite"
+				"alexcvzz.vscode-sqlite",
+				"ms-azuretools.vscode-docker",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
